@@ -258,3 +258,91 @@ Vega-Lite 编译器自动生成可视化组件
 基于一组精心设计的规则。</font><code>smile.plot.vega package</code></p>
 <div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto" _msttexthash="5254665" _msthash="361">画廊</h2>
    
+
+## Gallery
+<table class="center" width="100%">
+    <tr>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-kpca.png"><img src="https://haifengl.github.io/gallery/smile-demo-kpca-small.png" alt="Kernel PCA"></a>
+                <figcaption><h2>Kernel PCA</h2></figcaption>
+            </figure>
+        </td>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-isomap.png"><img src="https://haifengl.github.io/gallery/smile-demo-isomap-small.png" alt="IsoMap"></a>
+                <figcaption><h2>IsoMap</h2></figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-mds.png"><img src="https://haifengl.github.io/gallery/smile-demo-mds-small.png" alt="MDS"></a>
+                <figcaption><h2>Multi-Dimensional Scaling</h2></figcaption>
+            </figure>
+        </td>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-som.png"><img src="https://haifengl.github.io/gallery/smile-demo-som-small.png" alt="SOM"></a>
+                <figcaption><h2>SOM</h2></figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-ann.png"><img src="https://haifengl.github.io/gallery/smile-demo-ann-small.png" alt="Neural Network"></a>
+                <figcaption><h2>Neural Network</h2></figcaption>
+            </figure>
+        </td>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-svm.png"><img src="https://haifengl.github.io/gallery/smile-demo-svm-small.png" alt="SVM"></a>
+                <figcaption><h2>SVM</h2></figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-agglomerative-clustering.png"><img src="https://haifengl.github.io/gallery/smile-demo-agglomerative-clustering-small.png" alt="Agglomerative Clustering"></a>
+                <figcaption><h2>Agglomerative Clustering</h2></figcaption>
+            </figure>
+        </td>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-xmeans.png"><img src="https://haifengl.github.io/gallery/smile-demo-xmeans-small.png" alt="X-Means"></a>
+                <figcaption><h2>X-Means</h2></figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-dbscan.png"><img src="https://haifengl.github.io/gallery/smile-demo-dbscan-small.png" alt="DBSCAN"></a>
+                <figcaption><h2>DBSCAN</h2></figcaption>
+            </figure>
+        </td>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-neural-gas.png"><img src="https://haifengl.github.io/gallery/smile-demo-neural-gas-small.png" alt="Neural Gas"></a>
+                <figcaption><h2>Neural Gas</h2></figcaption>
+            </figure>
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-wavelet.png"><img src="https://haifengl.github.io/gallery/smile-demo-wavelet-small.png" alt="Wavelet"></a>
+                <figcaption><h2>Wavelet</h2></figcaption>
+            </figure>
+        </td>
+        <td width="50%">
+            <figure>
+                <a href="https://haifengl.github.io/gallery/smile-demo-mixture.png"><img src="https://haifengl.github.io/gallery/smile-demo-mixture-small.png" alt="Mixture"></a>
+                <figcaption><h2>Exponential Family Mixture</h2></figcaption>
+            </figure>
+        </td>
+    </tr>
+</table>
